@@ -2,4 +2,6 @@ body{
     color:aqua;
     background-color: rebeccapurple;
     background-size: contain;
+
+    text-align: center;
 }
